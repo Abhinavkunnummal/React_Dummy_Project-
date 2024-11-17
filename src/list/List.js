@@ -22,6 +22,18 @@ let arr = [
     descr: "The Patient is rescheduled to Descember",
     isActive: true,
   },
+  {
+    id:4,
+    title: "Appointment for January",
+    descr: "The Patient is rescheduled to January",
+    isActive: true,
+  }, {
+    id:5,
+    title: "Appointment for Februvary",
+    descr: "The Patient is rescheduled to Februvary",
+    isActive: true,
+  },
+  
 ];
 
 class List extends React.Component {
